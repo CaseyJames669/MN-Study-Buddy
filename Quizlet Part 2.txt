@@ -1,0 +1,1000 @@
+How often should sprinkler heads be replaced in commercial type cooking equipment and ventilating systems?
+
+Annually
+Reference: Minnesota State Fire Code, 2020 Edition, Section 904.12.5.3 specifies that fusible links and automatic sprinkler heads in commercial cooking systems shall be replaced annually.
+
+
+What is the minimum spacing between an upright sprinkler head and a hanger rod?
+
+3"
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.5.1 specifies that the minimum distance between an upright sprinkler head and a hanger rod is 3 inches.
+
+
+On a plastic system, what is the minimum pipe size?
+
+¾"
+Reference: NFPA 13, 2016 Edition, Section 6.4.2 specifies that the minimum pipe size for CPVC systems is ¾ inch.
+
+
+Maximum horizontal sprinkler head spacing for in-rack sprinklers?
+
+Typically 12’ and 8’ for encapsulated storage
+Reference: NFPA 13, 2016 Edition, Section 17.2.1.5.2 specifies the spacing requirements for in-rack sprinklers.
+
+
+Pressure relief valves should be used on what type of system?
+
+Gridded wet system
+Reference: NFPA 13, 2016 Edition, Section 7.1.2.1 specifies that pressure relief valves are required on gridded wet systems.
+
+
+On a dry pipe valve, what is the ratio water to air?
+
+5 to 6 parts water to air
+Reference: NFPA 13, 2016 Edition, Section 7.2.3.1 specifies that the ratio of water to air in dry pipe systems should be 5 to 6 parts water to air.
+
+
+On a 2500 gpm pump or smaller, what size automatic relief valve is required?
+
+¾" for pumps 2500 gpm and under and 1" for larger pumps
+Reference: NFPA 20, 2016 Edition, Section 4.9.7.2 specifies the size requirements for automatic relief valves on fire pumps.
+
+
+Controllers for fire pumps shall be mounted at least how far above the floor?
+
+12"
+Reference: NFPA 20, 2016 Edition, Section 10.5.2.2 specifies that controllers for fire pumps shall be mounted at least 12 inches above the floor.
+
+
+Fuel tanks for fire pumps shall have a capacity at least equal to what?
+
+1 gallon per HP plus 5% volume for expansion plus 5% volume for sump
+Reference: NFPA 20, 2016 Edition, Section 11.4.1.3 specifies the minimum fuel tank capacity for fire pumps.
+
+
+Sensing lines for fire pumps shall consist of what type and size of piping?
+
+Brass, copper, or stainless steel 300 and at least ½"
+Reference: NFPA 20, 2016 Edition, Section 4.27.1 specifies that sensing lines for fire pumps should be made of brass, copper, or stainless steel and shall be at least ½ inch in diameter.
+
+
+What size rod is required for hanging 10 inch and 12 inch pipe?
+
+⅝"
+Reference: NFPA 13, 2016 Edition, Section 9.1.1.2 specifies that the minimum rod size for hanging pipes from 10 inches to 12 inches in diameter is ⅝ inch.
+
+
+Horizontal piping from a standpipe to hose valve shall require a hanger at what length?
+
+18 inches
+Reference: NFPA 14, 2016 Edition, Section 7.3.4 specifies that horizontal piping from the standpipe to the hose valve that is longer than 18 inches shall be provided with hangers.
+
+
+Standpipes that are part of a combined system shall be at least what pipe size?
+
+4" for completely sprinkled buildings otherwise 6"
+Reference: NFPA 14, 2016 Edition, Section 7.6.1 specifies the minimum pipe size for standpipes in combined systems.
+
+
+Size of drain required for a 2½" standpipe?
+
+1¼"
+Reference: NFPA 14, 2016 Edition, Section 7.3.1.1 specifies the minimum drain size for standpipes of different sizes.
+
+
+In trenches cut through rock, what is the required tamped backfill under and around the pipe and how much above the pipe?
+
+6" under and around the pipe and for at least 2 feet above the pipe
+Reference: NFPA 24, 2016 Edition, Section 10.4.3.3 specifies the requirements for backfill in rock trenches.
+
+
+What type of heads are required if water temperature exceeds 100°F?
+
+Intermediate or high temperature
+Reference: NFPA 13, 2016 Edition, Section 6.1.1.6.1 specifies that sprinklers should be rated for intermediate or high temperature if the water temperature exceeds 100°F.
+
+
+Sprinklers in rack shall discharge not less than how many psi for all classes of commodities?
+
+15 psi
+Reference: NFPA 13, 2016 Edition, Section 8.12.1.1.1 specifies that in-rack sprinklers shall discharge at a minimum of 15 psi.
+
+
+Tread tire storage piles regardless of storage method shall not exceed how many feet in the direction of wheel holes?
+
+25 feet
+Reference: NFPA 13, 2016 Edition, Section 16.2.1.3 specifies the maximum length for tread tire storage piles.
+
+
+A minimum of how many inches shall be maintained between the sprinkler deflector and the top of a tier of storage?
+
+6"
+Reference: NFPA 13, 2016 Edition, Section 8.5.6.1 specifies the clearance requirement for sprinklers above storage.
+
+
+Pendant and upright sprinklers for residential application shall be positioned so that the deflectors are within how many inches from the ceiling?
+
+1" to 4"
+Reference: NFPA 13D, 2016 Edition, Section 8.6.3.3 specifies the deflector positioning for residential sprinklers.
+
+
+For a water storage tank, the distance between the floor and any part of the tank shall be at least how many feet?
+
+3 feet
+Reference: NFPA 22, 2018 Edition, Section 14.3.1 specifies the minimum distance between the floor and any part of the tank.
+
+
+In light hazard, how many heads are allowed off 1½" pipe?
+
+5 sprinkler heads
+Reference: NFPA 13, 2016 Edition, Section 8.16.1.5.3 specifies the maximum number of sprinklers on a 1½" pipe in light hazard occupancies.
+
+
+On a dry pipe valve with a 5 to 1 ratio and system psi of 75, what pressure will the valve trip at?
+
+15 psi
+Reference: NFPA 13, 2016 Edition, Section 7.2.3.1 specifies that with a 5 to 1 ratio, the valve will trip when the air pressure drops to 20% of the system pressure, which in this case is 15 psi.
+
+
+A relief valve on a dry system located between the compressor and control valve shall be set at _______ psi in excess of maximum air pressure in the system?
+
+10 psi
+Reference: NFPA 13, 2016 Edition, Section 7.1.2.1 specifies that the relief valve should be set to relieve pressure at 10 psi above the maximum system pressure.
+
+
+System components shall not be rated less than _________ psi for aboveground components and _________ psi for underground components?
+
+175 psi, 150 psi
+Reference: NFPA 13, 2016 Edition, Section 6.1.1.1 specifies the minimum pressure ratings for aboveground and underground system components.
+
+
+Maximum operating pressure for extra hazard, palletized, solid piled, in bin box, and on shelf storage?
+
+175 psi
+Reference: NFPA 13, 2016 Edition, Section 8.12.1.1.1 specifies the maximum operating pressure for various storage configurations.
+
+
+Minimum operating pressure of an in-rack sprinkler head?
+
+15 psi
+Reference: NFPA 13, 2016 Edition, Section 8.12.1.1.1 specifies the minimum operating pressure for in-rack sprinklers.
+
+
+Hours required for MN Test
+
+8000
+Reference: Minnesota Statutes, Chapter 299M specifies the requirement of 8000 hours of work experience under the supervision of a licensed journeyman sprinkler fitter for the journeyman examination.
+
+
+NFPA __ is the Standard for the Installation of Sprinkler Systems.
+
+13
+Reference: NFPA 13, 2016 Edition
+
+
+NFPA __ is the Standard for the Installation of Sprinkler Systems in One- and Two-Family Dwellings and Manufactured Homes.
+
+13D
+Reference: NFPA 13D, 2016 Edition
+
+
+NFPA __ is the Standard for the Installation of Sprinkler Systems in Low-Rise Residential Occupancies.
+
+13R
+Reference: NFPA 13R, 2016 Edition
+
+
+NFPA __ is the Standard for the Installation of Standpipes and Hose Systems.
+
+14
+Reference: NFPA 14, 2016 Edition
+
+
+NFPA __ is the Standard for the Installation of Stationary Pumps for Fire Protection.
+
+20
+Reference: NFPA 20, 2016 Edition
+
+
+NFPA __ is the Standard for Water Tanks for Private Fire Protection.
+
+22
+Reference: NFPA 22, 2018 Edition
+
+
+NFPA __ is the Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems.
+
+25
+Reference: NFPA 25, 2017 Edition
+
+
+First main supplied from the sprinkler riser. The ______ _____ will generally be installed parallel to the buildings roof structure.
+
+Cross Main
+Reference: NFPA 13, 2016 Edition, Section 3.3.10.1
+
+
+A transfer main that is supplied by the riser or cross main to supply a separate area not supplied from the cross main.
+
+Feed Main
+Reference: NFPA 13, 2016 Edition, Section 3.3.10.2
+
+
+A vertical pipe that supplies sprinkler lines from the cross main.
+
+Riser Nipple
+Reference: NFPA 13, 2016 Edition, Section 3.3.10.3
+
+
+Generally a vertical supply pipe that initially supplies the entire sprinkler piping network. The ________ _____ is generally the location where a transition from underground piping to interior piping occur.
+
+Sprinkler Riser
+Reference: NFPA 13, 2016 Edition, Section 3.3.10.4
+
+
+Generally horizontal piping supplied by the riser nipple from the cross main. Sprinkler heads may be installed directly on the ______ ____ or sprinkler heads will be supplied from the ______ ____.
+
+Branch Line
+Reference: NFPA 13, 2016 Edition, Section 3.3.10.5
+
+
+FDC piping of 4" or larger requires that the FDC connection have two inlets on it. If the piping of the FDC is ______ inch or smaller one outlet is sufficient?
+
+3
+Reference: NFPA 13, 2016 Edition, Section 6.7.1.3
+
+
+Per NFPA 13 what is the maximum time water can flow without tripping the flow switch?
+
+5 minutes
+Reference: NFPA 13, 2016 Edition, Section 6.8.1
+
+
+Per NFPA 72 what is the maximum time water can flow before the flow switch goes into alarm?
+
+90 seconds
+Reference: NFPA 72, 2016 Edition, Section 23.8.5.1
+
+
+If you have 3 dry systems in a building sharing an air compressor, how many air maintenance devices are required?
+
+3
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.1 specifies that each dry system requires its own air maintenance device.
+
+
+What is the maximum number of sprinklers that can be installed on any one pre-action system?
+
+1,000
+Reference: NFPA 13, 2016 Edition, Section 7.3.1
+
+
+What type of sprinklers are required in a skylight?
+
+Intermediate
+Reference: NFPA 13, 2016 Edition, Section 8.3.2.5
+
+
+A sprinkler with blue liquid in the bulb would discharge at what temperature?
+
+286
+Reference: NFPA 13, 2016 Edition, Section 6.1.1.6.1 specifies the temperature ratings for sprinklers based on the color of the liquid inside the bulb.
+
+
+A sprinkler with red liquid in the bulb would discharge at what temperature?
+
+155
+Reference: NFPA 13, 2016 Edition, Section 6.1.1.6.1
+
+
+When measuring the distance from a metal pan deck to the sprinkler, measure from the low part of the pan, however, if the pan is ______ or larger then you would measure to the upper part of the pan.
+
+3 inches
+Reference: NFPA 13, 2016 Edition, Section 8.6.4.1.1.1
+
+
+With standard spray sprinklers obstructions to discharge over ______ wide require sprinklers to be installed under the obstruction.
+
+4 ft
+Reference: NFPA 13, 2016 Edition, Section 8.5.5.3
+
+
+If an obstruction is wider than 4 ft. requiring sprinklers to be installed under the obstruction, it is acceptable to add sprinklers next to the obstruction as long as the sprinkler is within ______ inches from the outside edge of the obstruction?
+
+3 in
+Reference: NFPA 13, 2016 Edition, Section 8.5.5.3
+
+
+Skylights under ______ sq ft are not required to have sprinklers installed?
+
+32
+Reference: NFPA 13, 2016 Edition, Section 8.5.7.1 Sprinklers shall be permitted to be omitted from sky-lights not exceeding
+32 ft2 (3.0 m2) in area, regardless of hazard classification, that are separated by
+at least 10 ft (3.0 m)horizontally from any other unprotected skylight or
+unprotected ceiling pocket.
+
+
+What is the maximum square footage that a standard spray sprinkler can be spaced in a light hazard occupancy?
+
+225 sq ft
+Reference: NFPA 13, 2016 Edition, Section 8.6.2.2.1
+
+
+What is the maximum square footage of a standard spray sprinkler in an ordinary hazard occupancy?
+
+130 sq ft
+Reference: NFPA 13, 2016 Edition, Section 8.6.2.2.1
+
+
+What is the minimum distance a sprinkler head can be to the wall?
+
+4 inches
+Reference: NFPA 13, 2016 Edition, Section 8.6.2.1.1
+
+
+What is the minimum distance a standard sprinkler head can be to another sprinkler head?
+
+6 ft
+Reference: NFPA 13, 2016 Edition, Section 8.6.2.1.1
+
+
+What is the maximum distance a sprinkler head shall be down from the deck in an unobstructed construction building?
+
+12 inches
+Reference: NFPA 13, 2016 Edition, Section 8.6.4.1.1
+
+
+Ceiling fans over ______ inches in diameter are required to be considered as an obstruction.
+
+60"
+Reference: NFPA 13, 2016 Edition, Section 8.5.5.2
+
+
+Storage on shelves in closets and other storage arrangements must be maintained at ______ inches below the sprinkler deflector.
+
+18"
+Reference: NFPA 13, 2016 Edition, Section 8.5.6.1
+
+
+Ceiling pockets do not require sprinklers unless they are over 36" deep and over _____ square feet in size.
+
+1,000 sq. ft.
+Reference: NFPA 13, 2016 Edition, Section 8.5.7.1
+
+
+Standard horizontal sidewall sprinklers shall be located ______ to 6 inches below the deck.
+
+4"
+Reference: NFPA 13, 2016 Edition, Section 8.7.4.1.1
+
+
+In light hazard occupancies - In the same room with horizontal sidewall sprinklers across from each other - How long can the room be before sprinklers need to be added?
+
+24 ft
+Reference: NFPA 13, 2016 Edition, Section 8.7.4.1.3
+
+
+Each fire sprinkler system is required to have an indicating control valve. Which one of the valves listed below is not an indicating valve?
+
+Gate Valve
+Reference: NFPA 13, 2016 Edition, Section 6.6.1.1
+
+
+True or False.
+Backflow preventers can replace check valves on the sprinkler system if required?
+
+True
+Reference: NFPA 13, 2016 Edition, Section 6.6.3.1
+
+
+If system pressure can exceed 175 psi a pressure-reducing valve is required with a pressure relief valve not smaller than _____ attached to the system side of the pressure-reducing valve.
+
+1/2 inch
+Reference: NFPA 13, 2016 Edition, Section 6.7.2.1
+
+
+Post indicating valves must have the top of the valve located ___________ above finished grade?
+
+32 to 40 inches
+Reference: NFPA 24, 2016 Edition, Section 6.2.10
+
+
+Installation of _____ or fewer sprinklers, installed in a rack, being supplied by the overhead sprinkler system does not require a separate control valve to be installed.
+
+20
+Reference: NFPA 13, 2016 Edition, Section 8.16.1.1.2
+
+
+What is the minimum size drain you are allowed for a system size of 2" or less?
+
+3/4"
+Reference: NFPA 13, 2016 Edition, Section 8.16.2.5.2
+
+
+What is the minimum size drain your allowed on a 2 1/2" to 3" sprinkler system?
+
+1 1/4"
+Reference: NFPA 13, 2016 Edition, Section 8.16.2.5.2
+
+
+What is the minimum size drain you’re allowed on a 4 inch or larger sprinkler system?
+
+2"
+Reference: NFPA 13, 2016 Edition, Section 8.16.2.5.2
+
+
+A trapped section of pipe on a wet system exceeds 50 gallons, what is the minimum size aux drain allowed?
+
+1"
+Reference: NFPA 13, 2016 Edition, Section 8.16.2.5.2
+
+
+What is the minimum size writing allowed on an FDC informational sign?
+
+1"
+Reference: Minnesota State Fire Code, 2020 Edition, Section 912.4.1
+
+
+What is the minimum size connection required for a system pressure gauge on all sprinkler systems?
+
+1/4"
+Reference: NFPA 13, 2016 Edition, Section 6.7.3.1
+
+
+What is the maximum size pipe you can hang with toggle bolts in sheetrock?
+
+1 1/2"
+Reference: NFPA 13, 2016 Edition, Section 9.1.1.2
+
+
+What is the maximum length of a flex drop before it has to be supported?
+
+6 ft
+Reference: NFPA 13, 2016 Edition, Section 9.2.1.3.3
+
+
+What is the maximum size pipe you can support by drilling holes in the metal pan ceiling?
+
+1"
+Reference: NFPA 13, 2016 Edition, Section 9.1.1.1
+
+
+What is the maximum length of a branch line starter piece without a hanger?
+
+6 ft
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.2.4
+
+
+What is the maximum distance allowed from the end of a 1" branch line to the last hanger?
+
+3 ft
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.4.1
+
+
+What is the maximum distance allowed from the last hanger to the end of a 1 1/4-inch line?
+
+4 ft
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.4.1
+
+
+What is the maximum distance allowed from the end of a 1 1/2 inch branch line or larger and the last hanger?
+
+5 ft
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.4.1
+
+
+What is the maximum distance allowed from the end of a 1" copper line and the last hanger?
+
+18"
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.4.2
+
+
+What is the maximum distance allowed from the end of a 1 1/4 inch copper line and the last hanger?
+
+2 ft
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.4.2
+
+
+What is the maximum distance allowed from the end of a 1 1/2 inch or larger copper line and the last hanger?
+
+30"
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.4.2
+
+
+What is the maximum unsupported length of any arm over in a system under 100 psi?
+
+2 ft
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.5.1
+
+
+What is the maximum unsupported length of an arm over if the system pressure exceeds 100 psi?
+
+1 ft
+Reference: NFPA 13, 2016 Edition, Section 9.2.3.5.2
+
+
+What is the maximum length between hangers for 1 inch sch 40 pipe?
+
+12 ft
+Reference: NFPA 13, 2016 Edition, Table 9.2.2.1(a)
+
+
+What is the maximum spacing between hangers on 1 1/2" thin wall pipe?
+
+12’
+Reference: NFPA 13, 2016 Edition, Table 9.2.2.1(a)
+
+
+What is the maximum spacing of hangers for 1 1/2" or larger sch. 40 pipe?
+
+15’
+Reference: NFPA 13, 2016 Edition, Table 9.2.2.1(a)
+
+
+What is the maximum spacing of hangers on 1 1/2" or larger thin-wall pipe?
+
+15’
+Reference: NFPA 13, 2016 Edition, Table 9.2.2.1(a)
+
+
+Standpipes shall be supported at the following points?
+
+Highest level, and every other floor
+Reference: NFPA 14, 2016 Edition, Section 7.3.2
+
+
+What size pipe is required for a pipe stand that will support 10" pipe?
+
+2"
+Reference: NFPA 13, 2016 Edition, Section 9.2.6.3.1
+
+
+FDC connections shall be located between ____ and ____ inches above finished ground.
+
+18 and 48 inches
+Reference: Minnesota State Fire Code, 2020 Edition, Section 912.2.2
+
+
+At what pitch is a ceiling no longer considered sloped?
+
+2 to 12
+Reference: NFPA 13, 2016 Edition, Section 8.6.4.1.2
+
+
+After a dry system has been in service for 3 years, and for every 3 years after, it’s required to have an air test. This can be accomplished in two ways. Either 40 psi for 2 hours and it is allowed to lose 3 psi, or at system working pressure for _____ hours and the system cannot go into low air condition?
+
+4 hours
+Reference: NFPA 25, 2017 Edition, Section 13.4.5.2.9
+
+
+When a pump is receiving suction supply from a tank, what is the name of the plate at the bottom of the tank that stabilizes the stream?
+
+Anti-Vortex Plate
+Reference: NFPA 22, 2018 Edition, Section 14.2.13
+
+
+The anti-vortex plate must be installed 1/2 the diameter of the pipe or ____ inches off the bottom whichever is greater.
+
+6 inches
+Reference: NFPA 22, 2018 Edition, Section 14.2.13.3
+
+
+Sprinklers subject to mechanical injury shall be protected with ______ guards.
+
+Listed
+Reference: NFPA 13, 2016 Edition, Section 8.6.4.1.3
+
+
+The minimum amount of time that a control valve can be closed is _____ seconds.
+
+5 seconds
+Reference: NFPA 13, 2016 Edition, Section 6.6.1.2
+
+
+What is the maximum size system you are allowed with a single FDC outlet?
+
+3"
+Reference: NFPA 13, 2016 Edition, Section 6.7.1.3
+
+
+If an airline feeding a dry or pre-action system has to run through the freezer, you must leave a removable piece of 1" pipe a minimum of _____ feet long for internal inspection.
+
+6’
+Reference: NFPA 13, 2016 Edition, Section 7.8.2.7
+
+
+Minimum size pipe allowed in a dwelling unit for sprinkler systems is 1" for steel pipe and _____ for plastic pipe?
+
+3/4"
+Reference: NFPA 13D, 2016 Edition, Section 4.1
+
+
+What is the maximum distance a standpipe can be from a hydrant?
+
+100’
+Reference: NFPA 14, 2016 Edition, Section 6.4.5.4
+
+
+What is the maximum length a sprinkler label is allowed on our sprinkler pipe?
+
+2 ft
+Reference: NFPA 13, 2016 Edition, Section 6.2.7.3
+
+
+What NFPA Standard covers standpipes?
+
+NFPA 14
+Reference: NFPA 14, 2016 Edition
+
+
+Protective straps on sprinkler heads may be removed if they are at least how many feet off the floor?
+
+10 ft
+Reference: NFPA 13, 2016 Edition, Section 6.2.7.2
+
+
+Fire Department Connections are required to be a minimum of 18 inches and a maximum of _____ inches off the finished grade.
+
+48"
+Reference: Minnesota State Fire Code, 2020 Edition, Section 912.2.2
+
+
+Standpipe hose valves must be located horizontally, a minimum of 3 feet, and a maximum of ______ feet off the finished floor.
+
+5 ft
+Reference: NFPA 14, 2016 Edition, Section 7.3.1.1
+
+
+At what width soffit must you install a sprinkler above and below a soffit when dealing with horizontal sidewall sprinklers in soffits?
+
+8"
+Reference: NFPA 13, 2016 Edition, Section 8.7.4.1.3
+
+
+Two acceptable ways to cover sprinklers in paint booths or other areas where sprinklers are subject to be coated in a substance are cellophane bags (.003 inch thickness) and ______.
+
+Thin Paper Bags
+Reference: NFPA 13, 2016 Edition, Section 8.6.4.1.4
+
+
+A wet system with a trapped section of pipe that exceeds 50 gallons of water shall have a minimum of what size valve and plug?
+
+1"
+Reference: NFPA 13, 2016 Edition, Section 8.16.2.5.2
+
+
+Sprinkler piping shall be substantially supported from the building structure which must be able to support
+
+Water-filled pipe + 250 lbs
+Reference: NFPA 13, 2016 Edition, Section 9.2.2.3
+
+
+What is the minimum size pipe you are allowed by code to use for a sensing line on a fire pump assembly to the controller?
+
+1/2"
+Reference: NFPA 20, 2016 Edition, Section 4.27.1
+
+
+Sensing lines for fire pumps and jockey pumps must be run separately, and must tie into the pump assembly between the discharge check valve and the ___________?
+
+Discharge Control Valve
+Reference: NFPA 20, 2016 Edition, Section 4.27.1
+
+
+If you see a solder link sprinkler with blue paint on the frame arms from the factory, what temperature is this sprinkler?
+
+286
+Reference: NFPA 13, 2016 Edition, Section 6.1.1.6.1
+
+
+What is the maximum drop in a smooth flat ceiling before you have to consider it a wall for the purpose of sprinkler layout?
+
+36"
+Reference: NFPA 13, 2016 Edition, Section 8.6.4.1.1
+
+
+If standing behind a fire pump motor and looking toward the fire pump, the suction side of the pump is on the left, what is this pump?
+
+Left-handed
+Reference: NFPA 20, 2016 Edition, Section 3.3.12
+
+
+There are 3 types of fire pump drivers acceptable to NFPA 25 and NFPA 13, which is not an acceptable fire pump driver?
+
+Gasoline Engine
+Reference: NFPA 20, 2016 Edition, Section 11.2
+
+
+What size common drain pipe must be installed in a stairwell if the system drains are 1 1/2"?
+
+2"
+Reference: NFPA 13, 2016 Edition, Section 8.16.2.5.2
+
+
+Fire Protection Gauges shall be replaced or recalibrated at what intervals?
+
+5 years
+Reference: NFPA 25, 2017 Edition, Section 5.3.1
+
+
+If recalibrating a sprinkler system gauge rather than replacing it, at what percentage off must the gauge be replaced?
+
+3%
+Reference: NFPA 25, 2017 Edition, Section 5.3.1
+
+
+Dry system main piping shall be pitched at ______ per 10 feet.
+
+1/4"
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.4
+
+
+Dry system branch lines shall be pitched at ______ per 10 feet.
+
+1/2"
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.4
+
+
+What is the minimum size pipe that can connect a dry system to the air compressor?
+
+1/2"
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.1
+
+
+What is the maximum allowed time for a compressor to fill up a dry system to its required pressure?
+
+30 minutes
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.3.2
+
+
+When it comes to bonding and grounding electrical components to a fire sprinkler system, what is not allowed on a fire sprinkler system?
+
+Grounding
+Reference: NFPA 13, 2016 Edition, Section 4.16.4
+
+
+Standard pendant sprinklers are allowed on dry systems, but they must be installed on goose necks. The piping must be installed in an area maintained at or above __ degrees.
+
+40
+Reference: NFPA 13, 2016 Edition, Section 7.2.2
+
+
+If dry system piping is located in the attic, and the attic is not heated, what is the only type of pendant sprinkler that can be utilized on the system?
+
+Dry-type sprinkler
+Reference: NFPA 13, 2016 Edition, Section 7.2.2
+
+
+True or False.
+Dry-type pendant sprinklers on a dry sprinkler system do not need to be installed on goosenecks.
+
+True
+Reference: NFPA 13, 2016 Edition, Section 7.2.2
+
+
+Sprinklers shall be inspected from the floor level for corrosion, damage, or other infractions at what intervals per NFPA 25?
+
+Annually
+Reference: NFPA 25, 2017 Edition, Section 5.2.1
+
+
+Standard response sprinklers shall be replaced or sent off for testing at what intervals?
+
+50 years
+Reference: NFPA 25, 2017 Edition, Section 5.3.1
+
+
+Quick Response Sprinklers shall be replaced or sent off for testing at what intervals?
+
+20 years
+Reference: NFPA 25, 2017 Edition, Section 5.3.1
+
+
+Dry-type sprinklers shall be replaced or sent off for testing at what intervals?
+
+10 years
+Reference: NFPA 25, 2017 Edition, Section 5.3.1
+
+
+If a sample size of dry-type sprinklers were sent off for testing and passed in 2020, what year would they need to be sent off for testing again?
+
+2025
+Reference: NFPA 25, 2017 Edition, Section 5.3.1
+
+
+If a sample size of 50-year standard response sprinklers is sent off for testing and passed in 2020, what year would they need to be tested again?
+
+2030
+Reference: NFPA 25, 2017 Edition, Section 5.3.1
+
+
+If a sample size of quick response sprinklers were sent off for testing and passed in 2020, what year would they be due for testing again?
+
+2030
+Reference: NFPA 25, 2017 Edition, Section 5.3.1.1.1.3 specifies that quick response sprinklers are to be tested every 20 years.
+
+
+Quick Response sprinklers in a building are due for testing. The building contains 800 concealed sprinklers, 300 upright sprinklers, and 200 pendant sprinklers, how many sprinklers need to be sent off for testing?
+
+16
+Reference: NFPA 25, 2017 Edition, Section 5.3.1.1.1.3 specifies that for quick response sprinklers, a sample size of 4 sprinklers or 1% of the number of sprinklers per sample, whichever is greater, should be sent off for testing. Here, 1% of the total sprinklers (1300) would be 13, but since the sample size should be a minimum of 4, the number of sprinklers to be sent off for testing is 16.
+
+
+At what intervals shall anti-freeze systems be tested for the level of freeze protection?
+
+Annually
+Reference: NFPA 25, 2017 Edition, Section 5.3.4.1 specifies that antifreeze solutions shall be tested annually for freeze protection.
+
+
+All fire hydrants shall be opened fully and flowed until all foreign material has cleared or for a minimum of 1 minute at what intervals?
+
+Annually
+Reference: NFPA 25, 2017 Edition, Section 7.3.1 specifies that fire hydrants shall be flow tested annually.
+
+
+Who is responsible for verifying sprinkler systems are adequate for what is being stored in the building?
+
+Building Owner
+Reference: NFPA 13, 2016 Edition, Section 4.1 specifies that it is the responsibility of the building owner to ensure that the sprinkler system is adequate for the storage and use of the building.
+
+
+When piping passes through warm areas into cold areas on a pre-action system, an obstruction investigation needs to be performed at the point where the piping enters the cold area at what intervals?
+
+Annually
+Reference: NFPA 25, 2017 Edition, Section 13.6.2 specifies that obstruction investigations should be conducted annually for systems with piping passing through areas subject to freezing.
+
+
+How many ft between a standpipe & five hydrant (FDC)
+
+100 feet
+Reference: NFPA 14, 2016 Edition, Section 6.4.5.4 specifies that fire department connections (FDCs) shall be located not more than 100 feet from the nearest fire hydrant connected to an approved water supply.
+
+
+What side should the bypass be on the fire pump (FPC) discharge side?
+
+Discharge Side
+Reference: NFPA 20, 2016 Edition, Section 4.9.7.4 specifies that the bypass should be on the discharge side of the pump.
+
+
+The interior of steel tanks with no corrosion protection shall be inspected at what intervals?
+
+Annually
+Reference: NFPA 25, 2017 Edition, Section 9.2.5.1.1
+
+
+The interior of steel water storage tanks with corrosion protection shall be inspected at what intervals?
+
+5 years
+Reference: NFPA 25, 2017 Edition, Section 9.2.5.1.2
+
+
+Water storage tank level indicators shall be tested for accuracy and freedom of movement at what intervals?
+
+5 years
+Reference: NFPA 25, 2017 Edition, Section 9.3.1
+
+
+Mainline strainers shall be internally inspected when any flow condition has taken place, including 2" main drain testing or at what intervals?
+
+Annually
+Reference: NFPA 25, 2017 Edition, Section 13.4.1.2
+
+
+At what intervals must a dry system be full-flow trip tested?
+
+3 years
+Reference: NFPA 25, 2017 Edition, Section 13.4.5.2.2
+
+
+Dry systems shall be checked for air leakage at what intervals?
+
+Annually
+Reference: NFPA 25, 2017 Edition, Section 13.4.5.2.9 specifies that dry systems should be checked for air leakage annually.
+
+
+System size on a dry system shall be that the initial water is discharged from the system test connection in not more than __________ seconds, starting at the normal air pressure on the system and at the time of fully opened inspectors test connection.
+
+60 seconds
+Reference: NFPA 13, 2016 Edition, Section 7.2.3.5
+
+
+The air supply on a dry system in a non-refrigerated space shall have the capacity to restore normal air pressure in the system within __________ minutes.
+
+30 minutes
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.3.2
+
+
+An approved relief valve shall be provided between the air supply and the shutoff valve of the dry system and shall be set to relieve pressure no less than __________ psi in excess of system air pressure?
+
+10 psi
+Reference: NFPA 13, 2016 Edition, Section 7.1.2.1
+
+
+In no case shall the maximum water temperature flowing through the sprinkler portion of the system exceed
+
+120°F
+Reference: NFPA 13, 2016 Edition, Section 6.6.3.3
+
+
+A dry system size of not more than gallons shall be permitted without a quick opening device and shall not be required to meet any specific water delivery requirement to the inspectors test connection?
+
+500 gal
+Reference: NFPA 13, 2016 Edition, Section 7.2.3.3
+
+
+A listed __________ shall be permitted to meet the requirements of water delivery to the inspectors test connection on a dry system.
+
+Quick Opening Device
+Reference: NFPA 13, 2016 Edition, Section 7.2.3.4
+
+
+The requirements of the 30 minute or less fill time of a dry system shall not apply to refrigerated spaces maintained below 5 degrees where normal air pressure shall be permitted to be restored within __________ minutes?
+
+60 minutes
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.3.2
+
+
+Dry Systems. Tie in drains shall be provided for multiple adjacent trapped branch pipes, maximum size shall be 1 inch and tie in drains shall be pitched __________ inch per 10 feet?
+
+1/2"
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.4
+
+
+Dry systems with low point drains shall have a sign at the dry pipe or pre-action valve indicating the number of low point drains and the __________ of each individual drain?
+
+Location
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.5
+
+
+A trip test connection or manifold pipe of not less than __________ inch in diameter, terminating in a smooth bore corrosion resistant orifice, to provide a flow equivalent to one sprinkler of a type installed on the particular system, shall be installed?
+
+1"
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.6
+
+
+Dry Pipe Systems in Nonrefrigerated Areas. In dry pipe systems, branch lines shall be pitched at least __________ inch per 10 ft. and mains shall be pitched at least __________ inch per 10 ft. in nonrefrigerated spaces.
+
+1/2 and 1/4
+Reference: NFPA 13, 2016 Edition, Section 7.2.6.6.4
+
+
+Riser Clamps on Standpipes are required...
+
+Riser clamps on standpipes are required in several specific locations within multistory buildings according to building codes and fire safety standards like NFPA 13 and 14. Here's a breakdown of where they are essential:
+At every floor penetration: This refers to wherever the standpipe goes through a concrete floor slab between stories. The clamp helps distribute the weight of the pipe to the building structure effectively.
+At the lowest level of the building: This provides a secure anchor point for the entire standpipe system at the base.
+At the top of the standpipe: This ensures stability and prevents movement at the highest point of the system.
+At alternate floors in between: Clamps are needed at regular intervals throughout the height of the building, typically on every other floor, to maintain stability and prevent sagging.
+Above and below offsets: If the standpipe needs to change direction horizontally (offset), clamps are required on both sides of the bend to manage the additional stress on the pipe at that point.
+In essence, riser clamps are required throughout a multistory building at any point where the standpipe needs support to maintain its position and withstand its weight.
+
+
+Heads in trash chute...
+
+Head enclosures for trash chutes are not typically required by building codes. However, sprinkler heads are required in trash chutes for fire safety reasons.
+Here's a breakdown:
+Head enclosures: These are not mandated. Trash chutes have openings on each floor for depositing waste, and these openings would make it difficult to install a head enclosure that allows for easy trash disposal.
+Sprinkler heads: These are required. Building codes and fire safety standards, like NFPA 13, mandate sprinkler systems in trash chutes. These typically include at least one sprinkler head at the top of the chute and additional heads at alternate floors and the bottom terminal room. The sprinkler heads are recessed and protected to prevent them from being damaged by falling debris.
+
+
+Service personnel shall be trained and experienced in the inspection, testing, and maintenance of fire protection systems?
+
+Qualified
+Reference: NFPA 25, 2017 Edition, Section 4.1.1 specifies that service personnel shall be qualified to perform the work they undertake.
+
+
+Fire pumps shall be dedicated to and approved for fire protection service?
+
+Approved
+Reference: NFPA 20, 2016 Edition, Section 4.2.2 specifies that fire pumps shall be dedicated to and approved for fire protection service.
+
+
+Select a centrifugal fire pump so the greatest single demand for any connected fire protection system is less than or equal to _____ of the pump’s rated capacity.
+
+150%
+Reference: NFPA 20, 2016 Edition, Section 4.12.1 specifies that the rated capacity of the pump shall be at least 150 percent of the greatest single demand of any fire protection system connected to the pump.
+
+
+Fire pump pressure gauges with a dial less than ___ inches in diameter require a nominal 1/4" gauge valve.
+
+3.5
+Reference: NFPA 20, 2016 Edition, Section 4.27.1 specifies that pressure gauges with a dial less than 3 1/2 inches in diameter require a nominal 1/4-inch gauge valve.

@@ -1,0 +1,37 @@
+Okay, here is the complete, up-to-date list of all the JSONL files that have been created for this project, reflecting the current organization and content. This list includes all files, including those completed and those pending completion:
+
+**Completed Files:**
+
+*   `msfc_2020_pairing1thru20.jsonl`
+*   `msfc_2020_pairing21thru40.jsonl`
+*    `nfpa_10.jsonl`
+*    `nfpa_22.jsonl`
+*   `nfpa_24.jsonl`
+*   `nfpa_25.jsonl`
+*	`nfpa_291.jsonl`
+*   `nfpa_72.jsonl`
+*   `nfpa_13_01.jsonl`
+*   `nfpa_13_02.jsonl`
+*   `nfpa_13_03.jsonl`
+*   `nfpa_13_04.jsonl`
+*   `nfpa_13_05.jsonl`
+*   `nfpa_13_06.jsonl`
+*   `nfpa_13_07.jsonl`
+*   `nfpa_13_08.jsonl`
+*   `nfpa_13_09.jsonl`
+*   `nfpa_13_10.jsonl`
+*   `nfpa_13d.jsonl`
+*   `nfpa_13r.jsonl`
+*   `nfpa_14.jsonl`
+*   `nfpa_20.jsonl`
+*   `nfpa_2001.jsonl`
+*	`awwa_c900.jsonl`
+*   `awwa_c909.jsonl`
+*   `mn_statutes.jsonl`
+*   `nova_669_info.jsonl`
+*	`index.jsonl`
+
+**Files Still to be created:**
+* None
+
+All files have been created. The next step would be using this data to train the model.
